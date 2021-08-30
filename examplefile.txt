@@ -1,1 +1,4 @@
-This happens to be my first file.
+This happens to be my first file for practising git.
+
+I want to understand how to use git.
+I would then be able tosave my files on remote repositories.
